@@ -1,0 +1,25 @@
+﻿  dllmain.cpp
+C:\Users\adeon\Downloads\fltools\test\main.h(26,26): warning C4244: '=' : conversion de 'DWORD' en 'WORD', perte possible de données
+C:\Users\adeon\Downloads\fltools\test\main.h(57,24): warning C4244: '=' : conversion de 'DWORD' en 'WORD', perte possible de données
+C:\Users\adeon\Downloads\fltools\test\main.h(73,26): warning C4244: '=' : conversion de 'DWORD' en 'WORD', perte possible de données
+C:\Users\adeon\Downloads\fltools\test\main.h(79,31): warning C4244: '=' : conversion de 'DWORD' en 'WORD', perte possible de données
+C:\Users\adeon\Downloads\fltools\test\main.h(95,29): warning C4244: '=' : conversion de 'DWORD' en 'WORD', perte possible de données
+C:\Users\adeon\Downloads\fltools\test\main.h(101,24): warning C4244: '=' : conversion de 'DWORD' en 'WORD', perte possible de données
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(60,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 3 est de type 'WPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(60,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 4 est de type 'LPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(75,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 3 est de type 'WPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(75,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 4 est de type 'LPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(78,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 3 est de type 'WPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(78,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 4 est de type 'LPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(84,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 3 est de type 'WPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(84,11): warning C4477: 'printf' : la chaîne de format '%p' nécessite un argument de type 'void *', mais l'argument variadique 4 est de type 'LPARAM'
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(235,23): warning C4244: 'return' : conversion de 'LRESULT' en 'int', perte possible de données
+     Création de la bibliothèque C:\Users\adeon\Downloads\fltools\x64\release\bin\test.lib et de l'objet C:\Users\adeon\Downloads\fltools\x64\release\bin\test.exp
+  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(13): warning C4172: retourne l'adresse d'une variable locale ou : windowTitle temporaire
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(25): warning C4172: retourne l'adresse d'une variable locale ou : text temporaire
+C:\Users\adeon\Downloads\fltools\test\dllmain.cpp(19): warning C4172: retourne l'adresse d'une variable locale ou : className temporaire
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  test.vcxproj -> C:\Users\adeon\Downloads\fltools\x64\release\bin\test.dll
